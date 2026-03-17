@@ -81,38 +81,38 @@ document.addEventListener('DOMContentLoaded', () => {
     // Project Data Mapping
     const projectData = {
         'project1': {
-            title: '黑皮诺 PINOT NOIR',
-            category: 'PACKAGING DESIGN',
+            title: '黑皮诺',
+            category: '包装设计',
             date: '2026.01',
-            size: '750ML Standard / Box',
-            artist: 'Your Name',
+            size: '750ml / 礼盒装',
+            artist: '设计师姓名',
             desc: '这款典藏版红酒包装设计旨在通过极简的视觉语言传达品牌的百年传承。黑白红的高对比色调不仅提升了货架辨识度，更赋予了产品一种深邃而优雅的仪式感。材质上选用了触感特种纸与烫金工艺，触手生温。',
             image: 'pinot-noir.jpg'
         },
         'project2': {
             title: '武夷岩茶 | 大红袍',
-            category: 'TEA PACKAGING',
+            category: '茶叶包装',
             date: '2025.11',
-            size: '300g (100g x 3) / Gift Box',
-            artist: 'Your Name',
+            size: '300g（100g×3）/ 礼盒装',
+            artist: '设计师姓名',
             desc: '选自武夷山核心三坑两涧产区，包装设计灵感源于岩茶的炭焙工艺。通过深棕色调与岩石纹理的结合，展现大红袍“岩韵花香”的独特魅力。三款独立罐装规格，适合高端礼赠场景。',
             image: 'box-tea-premium.jpg'
         },
         'project3': {
-            title: '醉客清酒 | ZUIKE SAKE',
-            category: 'LIQUOR PACKAGING',
+            title: '醉客清酒',
+            category: '酒类包装',
             date: '2025.08',
-            size: '720ML / Frosted Glass',
-            artist: 'Your Name',
+            size: '720ml / 磨砂玻璃',
+            artist: '设计师姓名',
             desc: '以“醉客”为核心概念，采用磨砂瓶身配合宣纸质感的酒标。设计上运用了苍劲的书法字体与大面积留白，展现东方饮酒文化中那份洒脱与克制的平衡之美。',
             image: 'zuike.jpg'
         },
         'project4': {
-            title: '苏格兰威士忌 | SCOTCH WHISKY',
-            category: 'LIQUOR PACKAGING',
+            title: '苏格兰威士忌',
+            category: '酒类包装',
             date: '2025.05',
-            size: '700ML / Leather Wrap Box',
-            artist: 'Your Name',
+            size: '700ml / 皮革纹理礼盒',
+            artist: '设计师姓名',
             desc: '这款威士忌包装设计通过深琥珀色调与皮革纹理质感，传达出跨越世纪的匠心传承。考究的金属标签与复古火漆封印元素，进一步锁定了产品的尊享感与收藏价值。',
             image: 'sugelanweishiji.jpg'
         }
